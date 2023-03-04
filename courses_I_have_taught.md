@@ -1,14 +1,19 @@
+List of coureses I have taught
+-------
+
 __Metis -  Data Science Bootcamp__
 
 Data Science Instructor -  TBD
 
-
-
-__FourthBrain -  Machine learning engineer (MLE) Bootcamp__
+__FourthBrain -  Machine Learning Engineer (MLE) Bootcamp__
 
 Lead Instructor -  In charge of teaching a cohort of 40 remote students over 16 weeks. Managed a team of 3 associate instructors.
 
 Teach machine learning engineering and deep learning, including deploying models into production.
+
+__Bradfiled Computer Science School - Deep Learning (DL) Course __
+
+Instructor -  Developed and delivered a course on applied deep learning. Taught groups of 8-15 software engineers.
 
 __University of San Francisco - Masters of Science in Data Science__
 
