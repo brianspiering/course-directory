@@ -7,3 +7,4 @@ List of courses I have developed and delivered.
 |:-------|:------|:------|
 | Reinforcement learning (RL) | [rl-course](https://github.com/brianspiering/rl-course) | Applied RL for graduate students |
 | Natural Language Processing (NLP) | [nlp-course](https://github.com/brianspiering/nlp-course) | Applied NLP for graduate students | 
+| Machine Learning in scikit-learn| [ml-course](https://github.com/brianspiering/machine-learning-in-scikit-learn) | Introduction to machine learning for graduate students | 
