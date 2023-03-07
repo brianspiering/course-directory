@@ -10,7 +10,7 @@ Courses I have developed and delivered.
 | [Knowledge Graph (KG)](https://github.com/brianspiering/knowledge-graph-workshop)| Applied KGs for software engineers  | 1 day |
 | Deep learning (DL)                                                               | Applied DL for software engineers   | 6-8 weeks |
 | [Machine Learning (ML) in scikit-learn](https://github.com/brianspiering/machine-learning-in-scikit-learn) | Introduction to machine learning | 6-8 weeks |
-| [Machine Learning for good]machine_learning_for_good](https://github.com/DeltaAnalytics/machine_learning_for_good) | Introduction to machine learning for social good / non-profits | 6-8 weeks |
+| [Machine Learning for good](https://github.com/DeltaAnalytics/machine_learning_for_good) | Introduction to machine learning for social good / non-profits | 6-8 weeks |
 | Python for non-programmers | Introduction to Python for people with no previous experience | 4 weeks |
 | Python for data analysts   | Level-up analysts into Pythonistas | 4 weeks |
 
