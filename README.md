@@ -3,16 +3,20 @@ Course Directory
 
 Courses I have developed and delivered.
 
-| Name | Summary | Length |
-|:-----|:--------|:-------|
-| [Machine Learning (ML) in scikit-learn](https://github.com/brianspiering/machine-learning-in-scikit-learn) | Introduction to machine learning | 1 day / 3 days |
-| [Machine Learning for good](https://github.com/DeltaAnalytics/machine_learning_for_good) | Introduction to machine learning for social good / non-profits | 1 week / 4 weeks |
-| [Natural Language Processing (NLP)](https://github.com/brianspiering/nlp-course) | Applied and pratical aspects of NLP | 1 day / 3 days / 4 weeks |
-| [Knowledge Graph (KG)](https://github.com/brianspiering/knowledge-graph-workshop)| Applied KGs for software engineers  | 1 day |
-| [Reinforcement learning (RL)](https://github.com/brianspiering/rl-course)        | Applied and pratical aspects of RL  | 3 days / 4 weeks |
-| Deep learning (DL)                                                               | Applied DL for software engineers   | 1 day / 3 days / 4 weeks |
-| Python for non-programmers | Introduction to Python for people with no previous experience | 1 day / 3 days  |
-| Python for data analysts   | Level-ups data analysts to better use Python  | 1 day / 3 days |
+| Name | Summary | 
+|:-----|:--------|
+| [Introduction to machine learning](https://github.com/brianspiering/machine-learning-in-scikit-learn) | Go from zero to proficient in Python's scikit-learn package |
+| [Natural Language Processing (NLP)](https://github.com/brianspiering/nlp-course) | Applied and pratical aspects of NLP | 
+| [Knowledge Graph (KG)](https://github.com/brianspiering/knowledge-graph-workshop)| Applied KGs fundamentals and applications | 
+| [Reinforcement learning (RL)](https://github.com/brianspiering/rl-course)        | Applied and pratical aspects of RL  | 
+| [Deep learning (DL)](https://github.com/brianspiering/deep-learning-course)       | Applied DL fundamentals and applications | 
+| Python for non-programmers | Introduction to Python for people with no previous experience | 
+| Python for data analysts   | Level-ups data analysts to better use Python  | 
+| [Machine Learning for good](https://github.com/DeltaAnalytics/machine_learning_for_good) | Learn the fundamentals of ML throught the lens of social good / non-profits |
 
-I would be delighted to chat with you about delivering these courses (or delveloping others) for your organization.  
+All courses cover the fundamentals and applications through a combination of lectures and hands-on activities.
+
+All courses are modular and can be customized for any length. Typically lengths are: ½ day, 1 day, 3 days, 1 week, 8 weeks
+
+I would be delighted to chat with you about delivering these courses (or developing others) for your organization.  
 [Send me email](mailto:bspiering@gmail.com)
