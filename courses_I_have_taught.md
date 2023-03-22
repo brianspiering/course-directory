@@ -1,5 +1,9 @@
-List of coureses I have taught
+Courses I have taught
 -------
+
+__Columbia University___
+
+Natural Language Processing (NLP) course for AI executive certificate program in Columbia Engineering 
 
 __Metis -  Data Science Bootcamp__
 
