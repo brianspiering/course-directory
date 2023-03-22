@@ -1,7 +1,7 @@
 Courses I have taught
 -------
 
-__Columbia University___
+__Columbia University__
 
 Natural Language Processing (NLP) course for AI executive certificate program in Columbia Engineering 
 
