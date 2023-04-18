@@ -18,5 +18,3 @@ All courses are a combination of lectures and hands-on activities.
 
 All courses are modular and can be customized for any length. Typically lengths are: ½ day, 1 day, 3 days, 1 week, 8 weeks
 
-I would be delighted to chat with you about delivering these courses (or developing others) for your organization.  
-[Send me email](mailto:bspiering@gmail.com)
