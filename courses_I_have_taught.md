@@ -15,7 +15,7 @@ Lead Instructor -  In charge of teaching a cohort of 40 remote students over 16 
 
 Teach machine learning engineering and deep learning, including deploying models into production.
 
-__Bradfiled Computer Science School - Deep Learning (DL) Course __
+__Bradfiled Computer Science School - Deep Learning (DL) Course__
 
 Instructor -  Developed and delivered a course on applied deep learning. Taught groups of 8-15 software engineers.
 
@@ -41,11 +41,9 @@ Instructor of record. Each class was a 8-week graduate level course for 90 stude
 * Introduction to Machine Learning Fall 2018
 * Business Communication for Data Scientists Fall 2018
 * Computation for Analytics (Introduction to Python) Summer 2018
-* ​​Natural Language Processing (NLP) Summer 2018
+* Natural Language Processing (NLP) Summer 2018
 
 __University of San Francisco - Department of Computer Science__
-
-
 
 * Intro to Computer Science (in Python) (13 undergraduates) Summer 2018
 * Intro to Computer Science (in Python) (60 undergraduates) Spring 2018
@@ -53,9 +51,7 @@ __University of San Francisco - Department of Computer Science__
 
 __GalvanizeU - Masters of Science in Data Science__
 
-Instructor of record. Each class was a  8-week graduate level course for 17-27 students unless otherwise noted.
-
-
+Instructor of record. Each class was a 8-week graduate level course for 15-30 students.
 
 * Bayesian Machine Learning Winter 2017
 * Natural Language Processing Fall 2017
@@ -76,27 +72,17 @@ Instructor of record. Each class was a  8-week graduate level course for 17-27 s
 
 __The University of Maryland, College Park__                                  
 
-
-
 * Perception. Instructor of record. 90 students. Undergraduate. Spring 2013
 
- 
-
 __The Catholic University of America__
-
-
 
 * Sensation & Perception. Instructor of record. 25 students. Undergraduate. Fall 2012
 
 __Colorado State University__                                                       
 
-
-
 * Fundamentals of fMRI Seminar. Co-instructor. 18 students. Undergraduate and graduate. Fall 2011
 
 __University of California, Santa Barbara__                                     
-
-
 
 * Statistical Analysis of fMRI data. Teaching assistant. Graduate. Spring 2009
 * Design and Measurement of Psychological Statistics Part 1 & 2. Teaching assistant. Graduate Fall 2008
@@ -104,8 +90,6 @@ __University of California, Santa Barbara__
 * Advanced Research Methods in Psychology. Lab instructor. Undergraduate. Spring 2008
 
 __San Diego State University__ 
-
-
 
 * Data Analysis in Psychology. Lab instructor. Undergraduate. Fall 2002
 * Data Analysis in Psychology.  Lab instructor. undergraduate. Spring 2002
